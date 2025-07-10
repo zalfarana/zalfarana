@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="mailto:kmalrizki0102@gmail.com" target="_blank">
+  <a href="mailto:zalfaranatask@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.instagram.com/akmal02r?igsh=aHN5M2d5azFpNzFo" target="_blank">
+  <a href="https://www.instagram.com/faa.vision/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
